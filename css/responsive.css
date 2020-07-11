@@ -1,0 +1,192 @@
+@media (max-width: 1220px) {
+	.header-img img {
+    width: 73%;
+	}
+	.owl-carousel.owl-loaded {
+    padding-top: 14%;
+	}
+	.spring-title {
+    padding-top: 0%;
+	}
+	.spring-title p {
+		width: 90%;
+	}
+}
+
+@media (max-width: 989px) {
+	.about-section-area {
+    padding-top:10px;
+    }
+    .about-img img {
+    position: relative;
+    padding: 10px;
+    padding-top: 100px;
+ 	}
+ 	.header-img {
+	position: absolute;
+	top:240px;
+	right:0px;
+	display: flex;
+	justify-content: flex-end;
+	}
+ 	.header-img img {
+    width: 50%;
+	}
+	.midel-section  {
+		margin-top:-150px;
+	}
+
+}
+@media (max-width: 768px){
+
+	header {
+		
+	}
+	header .col-8 {
+		position: static;
+	}
+ 	.menu-icon {
+	display: block;
+	}
+	.menu {
+		position: absolute;
+		top:86px;
+		left:0;
+		width: 100%;
+		z-index: 999;
+		display: none;
+	}
+	.menu ul {
+		display: block;
+		background: #35111196;;
+		margin:0;
+		padding: 0;
+
+	}
+	.menu ul li {
+	padding: 10px 20px;
+    }
+
+	.menu ul li a {
+		color:#fff;
+	}
+	.header-title  {
+	z-index: 999;
+	}
+	.header-title {
+    padding: 20px 0px 93px;
+	}
+	.overly1 {
+	width:50px; 
+    position: absolute;
+    top: 20%;
+    left: 1%;
+	}
+	.overly1 img {
+		width: 100%;
+	}
+	.overly2 {
+	width:80px; 
+    position: absolute;
+    top: 29%;
+    left: 66%;
+	}
+	.overly2 img {
+		width: 30%;
+	}
+	.header-img {
+	position: absolute !important;
+	top:300px;
+	right:0px;
+	display: flex;
+	justify-content: flex-end;
+	}
+	.header-img img {
+    width: 45%;
+	}
+	.header-title h2 {
+    font-weight: 800;
+    font-size: 20px;
+	}
+	.header-title h1 {
+    font-size: 30px;
+	}
+	.owl-carousel.owl-loaded {
+    padding-top: 0%;
+	}
+	.midel-section  {
+		margin-top:-40px;
+	}
+	.midel-title {
+		padding: 10px 0;
+	}
+	.midel-title h2 {
+		font-size: 20px;
+	}
+	.midel-title p {
+		font-size: 11px;
+	}
+	.about-img img {
+    position: relative;
+    padding: 50px;
+    padding-top: 20px;
+	}
+	.about-title {
+    padding: 4%;
+    padding-top: 0%;
+	}
+	.contact-number {
+    text-align: center;
+    padding-bottom: 10px;
+	}
+	.social-icon ul {
+    justify-content: center;
+    padding: 10px;
+	}
+	.about-title h2 {
+    font-weight: 700;
+    font-size: 20px;
+	}
+	.about-title p {
+    padding: 5px 0;
+    font-size: 11px;
+	}
+	.footer-menu ul li {
+     padding: 1px 2px; 
+	}
+	.footer-menu ul li a {
+     font-size: 11px;
+	}
+ }
+
+/*owl carousel nav option*/ 
+@media (max-width: 1213px) and (min-width: 1002px) {
+	.owl-nav {
+		position: absolute;
+		bottom:125px;
+		left: 50%;
+	}
+	.owl-nav button {
+		margin:10px 40px;
+	}
+	.owl-nav button span {
+		font-size: 40px;
+	}
+	.owl-nav .owl-next {
+	float:right !important;
+	}
+	.owl-dots {
+    margin-top:0; 
+    position: absolute;
+    bottom: 147px;
+    left: 62%;
+}
+
+@media (max-width: 1188px) and (min-width: 768px) {
+	.midel-section {
+   		 margin-top: -161px;
+	}
+	.header-img img {
+    width: 60%;
+	}
+}
